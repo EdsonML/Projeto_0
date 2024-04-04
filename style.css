@@ -1,6 +1,9 @@
 .cabeçalho {
 
         background-color: #627254;        
+        display: flex;
+        JUSTYIFY- content: espace-arround;
+
 }
 
 .cabeçalho-título {
