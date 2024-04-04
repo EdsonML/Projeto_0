@@ -7,7 +7,9 @@
 }
 
 .cabeçalho-título {
-        color:#DDDDDD;        
+        color:#DDDDDD;    
+        display: flex;
+        justify-content:espace-arround;    
 }      
 
 .cabeçalho-lista { 
