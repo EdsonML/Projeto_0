@@ -6,12 +6,13 @@
 
 .cabeçalho-título {
         color:#DDDDDD;    
+        display: flex;
         
 }      
 
 .cabeçalho-lista { 
         color:#DDDDDD;
-        justify-content: flex-start;
+      
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
@@ -21,5 +22,5 @@
 }
 
 .cabeçalho-imagem {
-        width: 35%;
+        width: 10%;
 }
