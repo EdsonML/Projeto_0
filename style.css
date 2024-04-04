@@ -21,7 +21,9 @@
 }
 
 .cabeçalho-lista-item-2 {
-        COLOR: #DDDDDD; 
+        color: #DDDDDD;
+        display: inline-block
+        margin: 0 16px
 
 }
 
