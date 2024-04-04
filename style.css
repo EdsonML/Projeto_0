@@ -8,13 +8,11 @@
         color:#DDDDDD;    
 
         display: flex;
-        
-        justify-content:espace-arround; 
+        justify-content:espace-around; 
 }      
 
 .cabeçalho-lista { 
         color:#DDDDDD;
-
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
