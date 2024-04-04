@@ -2,7 +2,7 @@
 
         background-color: #627254;        
         display: flex;
-        JUSTYIFY- content: espace-arround;
+        justify-content:espace-arround;
 
 }
 
@@ -16,7 +16,8 @@
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
-
+        display: inline-block
+        margin: 0 16pix
 }
 
 .cabeçalho-lista-item-2 {
