@@ -1,8 +1,51 @@
-.cabeçalho{
+.cabeçalho {
         background-color: #627254;
 }
-.cabeçalho-1 {color: #DDDDDD;
+.cabeçalho-título {color: #DDDDDD;
 ]}      
-.cabeçalho-lista-1 {color white-space;
+
+.cabeçalho-lista { color:#DDDDDD;
+
 }
+.cabeçalho-lista-item1 {color: #DDDDDD;
+
+}
+.cabeçalho-lista-item2 {COLOR: #DDDDDD
+}
+
+.cabeçalho-imagem {
+        width: 10%;
+}
+
 { image
+
+
+        .cabeçalho {
+                background-color: #5F0F40;
+                }
+            
+            .cabeçalho-título {
+                color: #FA725A;
+            }
+            
+            .cabeçalho-lista {
+                color: white;
+            }
+            
+            .cabeçalho-imagem {
+                width: 10%;
+            }.cabeçalho {
+                background-color: #5F0F40;
+                }
+            
+            .cabeçalho-título {
+                color: #FA725A;
+            }
+            
+            .cabeçalho-lista {
+                color: white;
+            }
+            
+            .cabeçalho-imagem {
+                width: 10%;
+            }
