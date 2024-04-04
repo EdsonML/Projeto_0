@@ -7,7 +7,7 @@
 .cabeçalho-título {
         color:#DDDDDD;    
         display: flex
- 
+        space-around
 }      
 
 .cabeçalho-lista { 
