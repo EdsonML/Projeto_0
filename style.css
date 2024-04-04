@@ -11,7 +11,7 @@
 
 .cabeçalho-lista { 
         color:#DDDDDD;
-        justify-content: space-between;
+        justify-content: flex-start;
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
