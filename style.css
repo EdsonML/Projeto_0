@@ -1,12 +1,12 @@
 .cabeçalho {
 
         background-color: #627254;        
-
+        display: flex;
+        justify-content:espace-around; 
 }
 
 .cabeçalho-título {
         color:#DDDDDD;    
-        color:aliceblue
         display: flex;
         justify-content:espace-around; 
 }      
