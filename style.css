@@ -11,6 +11,7 @@
 
 .cabeçalho-lista { 
         color:#DDDDDD;
+        justify-content: space-around;
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
