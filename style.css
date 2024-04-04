@@ -6,7 +6,7 @@
 
 .cabeçalho-título {
         color:#DDDDDD;    
-
+        color:aliceblue
         display: flex;
         justify-content:espace-around; 
 }      
