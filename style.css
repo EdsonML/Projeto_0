@@ -6,7 +6,9 @@
 
 .cabeçalho-título {
         color:#DDDDDD;    
+
         display: flex;
+        
         justify-content:espace-arround; 
 }      
 
