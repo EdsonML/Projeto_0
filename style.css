@@ -6,8 +6,8 @@
 
 .cabeçalho-título {
         color:#DDDDDD;    
-        display: listiten;
-        justify-content:espace-around; 
+        display: inline-block
+ 
 }      
 
 .cabeçalho-lista { 
