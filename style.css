@@ -6,7 +6,7 @@
 
 .cabeçalho-título {
         color:#DDDDDD;    
-        display: flex;
+        display: inline-block
         justify-content: space-around;
 }      
 
@@ -27,5 +27,5 @@
 }
 
 .cabeçalho-imagem {
-        width: 10%;
+        width: 50%;     
 }
