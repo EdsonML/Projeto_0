@@ -5,7 +5,7 @@
        }
 
 .cabeçalho-título {
-        color: #DDDDDD;    
+        color:;    
 }      
 
 .cabeçalho-imagem {
@@ -32,5 +32,34 @@
 }
 
 .cabeçalho-imagem {
-        width: 50%;     
+        width: 10%;     
 }
+.cabeçalho {
+        background-color: #5F0F40;
+        }
+    
+    .cabeçalho-título {
+        color: #FA725A;
+    }
+    
+    .cabeçalho-lista {
+        color: white;
+    }
+    
+    .cabeçalho-imagem {
+        width: 10%;
+    }.cabeçalho {
+        background-color: #5F0F40;
+        }
+    
+    .cabeçalho-título {
+        color: #FA725A;
+    }
+    
+    .cabeçalho-lista {
+        color: white;
+    }
+    
+    .cabeçalho-imagem {
+        width: 10%;
+    }
