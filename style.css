@@ -15,24 +15,7 @@
 .cabeçalho {
         background-color: #627254;
         }
-
-.cabeçalho-lista { 
-        color:#DDDDDD;
-
-}
-.cabeçalho-lista-item-1 {
-        color: #DDDDDD;
-        
-        
-}
-.cabeçalho-lista-item-2 {
-        color: #DDDDDD;
-        display: flex;
-       
-}
-
-.cabeçalho-imagem {
-        width: 10%;     
+    
 }
 .cabeçalho {
         background-color: #5F0F40;
@@ -43,12 +26,13 @@
     }
     
     .cabeçalho-lista {
-        color: white;
+        color: #DDDDDD;
     }
     
-    .cabeçalho-imagem {
-        width: 10%;
-    }.cabeçalho {
+    
+    }
+    
+    .cabeçalho {
         background-color: #5F0F40;
         }
     
