@@ -7,6 +7,7 @@
         color:#DDDDDD;    
         display: flex;
         justify-content: space-around;
+        padding: 24px;
 }      
 
 .cabeçalho-lista { 
