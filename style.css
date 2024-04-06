@@ -13,13 +13,11 @@
 .cabeçalho-lista { 
         color:#DDDDDD;
         display: inline-block
-
-
-        
+                
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
-        display: inline-flex
+        display: inline-block
         
 }
 .cabeçalho-lista-item-2 {
