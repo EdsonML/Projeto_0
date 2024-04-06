@@ -4,6 +4,7 @@
         font-display:flex;
         justify-content: space-around;
         font-size: 35%;
+        display: inline inline-block;
        }
 
 .cabeçalho-título {
