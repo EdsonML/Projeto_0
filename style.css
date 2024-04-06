@@ -15,35 +15,18 @@
 .cabeçalho {
         background-color: #627254;
         }
-    
+
+.cabeçalho-lista { 
+        color:#DDDDDD;
+
 }
-.cabeçalho {
-        background-color: #5F0F40;
-        }
-    
-    .cabeçalho-título {
-        color: #FA725A;
-    }
-    
-    .cabeçalho-lista {
+.cabeçalho-lista-item-1 {
         color: #DDDDDD;
-    }
-    
-    
-    }
-    
-    .cabeçalho {
-        background-color: #5F0F40;
-        }
-    
-    .cabeçalho-título {
-        color: #FA725A;
-    }
-    
-    .cabeçalho-lista {
-        color: white;
-    }
-    
-    .cabeçalho-imagem {
-        width: 10%;
-    }
+        
+        
+}
+.cabeçalho-lista-item-2 {
+        color: #DDDDDD;
+        display: flex;
+       
+}
