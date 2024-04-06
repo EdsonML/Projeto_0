@@ -1,23 +1,23 @@
 .cabeçalho {
 
-        background-color: #627254;        
-      
-}
+        background-color: #627254; 
+       }
 
 .cabeçalho-título {
         color:#DDDDDD;    
-        display flex;
+        display: flex;
         justify-content: space-around;
-        padding: 24px;
-        font-size: 24;
+<<<<<<< HEAD
+       
+=======
+      
+>>>>>>> 446421ce8ad7d562065aa5dd6e856c434b77b7ee
 }      
 
 .cabeçalho-lista { 
         color:#DDDDDD;
         display: flex;
-        justify-content: space-around;
         
-        font-size: 24;
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
