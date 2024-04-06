@@ -6,8 +6,9 @@
 
 .cabeçalho-título {
         color:#DDDDDD;  
-        font-size: 18px;  
-}      
+        font-size: 15px;
+        display:flex  
+}       
 
 .cabeçalho-imagem {
        width: 20%;
