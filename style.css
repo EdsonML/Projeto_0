@@ -12,7 +12,8 @@
 
 .cabeçalho-lista { 
         color:#DDDDDD;
-        display: inline-flex
+        display: inline-block
+
 
         
 }
