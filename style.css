@@ -1,10 +1,11 @@
 .cabeçalho {
 
         background-color: #627254; 
+
        }
 
 .cabeçalho-1-título {
-        color:#DDDDDD;    
+        color: #DDDDDD;    
 }      
 
 .cabeçalho-imagem {
@@ -17,12 +18,11 @@
 
 .cabeçalho-lista { 
         color:#DDDDDD;
-        display: inline-block
-        font-size: 
+
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
-        display: inline-block
+        
         
 }
 .cabeçalho-lista-item-2 {
