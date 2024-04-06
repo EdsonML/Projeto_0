@@ -7,13 +7,13 @@
         color:#DDDDDD;    
         display: flex;
         justify-content: space-around;
-        padding: 20px;
+        padding: 30px;
 }      
 
 .cabeçalho-lista { 
         color:#DDDDDD;
         display: inline-block
-                
+        font-size: 
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
