@@ -10,8 +10,11 @@
         padding: 24px;
 }      
 
-.cabeçalho-imagem
-        
+.cabeçalho-imagem {
+        width: 10%;
+    }.cabeçalho {
+        background-color: #5F0F40;
+        }
 
 .cabeçalho-lista { 
         color:#DDDDDD;
