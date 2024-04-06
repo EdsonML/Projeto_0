@@ -6,8 +6,8 @@
 .cabeçalho-título {
         color:#DDDDDD;    
         display: flex;
-        justify-content: space-evenly;
-        padding: 36px;
+        justify-content: stretch;
+        padding: 45px;
 }      
 
 .cabeçalho-lista { 
