@@ -14,16 +14,17 @@
         color:#DDDDDD;
         display: flex;
         justify-content: space-around;
+        font-size: 24;
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
         display: flex;
-        justify-content: space-around;
+        
 }
 .cabeçalho-lista-item-2 {
         color: #DDDDDD;
         display: flex;
-        justify-content: space-around;
+       
 }
 
 .cabeçalho-imagem {
