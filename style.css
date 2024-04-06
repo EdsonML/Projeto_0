@@ -18,7 +18,7 @@
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
-        display: flex;
+        display: inline-flex
         
 }
 .cabeçalho-lista-item-2 {
