@@ -3,12 +3,14 @@
         background-color: #627254; 
        }
 
-.cabeçalho-título {
+.cabeçalho-1-título {
         color:#DDDDDD;    
         display: flex;
         justify-content: space-around;
         padding: 30px;
 }      
+
+.cabeçalho-
 
 .cabeçalho-lista { 
         color:#DDDDDD;
