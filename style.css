@@ -10,7 +10,7 @@
 
 .cabeçalho-título {
         color:#DDDDDD;  
-       font-size: 16px;
+       font-size: px;
       }         
 
 .cabeçalho-imagem {
@@ -26,14 +26,10 @@
 
 }
 .cabeçalho-lista-item-1 {
-        display: inline-block
         color: #DDDDDD;
               
 }
 .cabeçalho-lista-item-2 {
         color: #DDDDDD;
-        display: inline-block
-        color: #DDDDDD;
-        
        
 }
