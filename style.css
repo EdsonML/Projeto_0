@@ -22,15 +22,21 @@
         display: inline-block;
         margin: 16px;
         font-display: inline-block;
+
 }
 .cabeçalho-lista-item-1 {
+        display: flex;
         color: #DDDDDD;
-        display: inline-block;
         margin: 16px;
-        
+        font-size: 24px;
+        justify-content: space-around;        
 }
 .cabeçalho-lista-item-2 {
         color: #DDDDDD;
         display: flex;
+        color: #DDDDDD;
+        margin: 16px;
+        font-size: 24px;
+        justify-content: space-around; 
        
 }
