@@ -22,6 +22,7 @@
         display: inline-block;
         margin: 0 16px;
         font-display: inline-block;
+        justify-content: center;
 
 }
 .cabeçalho-lista-item-1 {
