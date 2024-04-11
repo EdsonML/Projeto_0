@@ -24,13 +24,12 @@
 .cabeçalho-lista-item-1 {
         display: inline-block;
         margin: 0 16px;
-
+}
        
 .cabeçalho-lista-item-2 {
         display: inline-block;
         margin: 0 16px;
-
-section
+}
 .apresentação{
         background-color: #DDDDDD; 
         display: flex;
