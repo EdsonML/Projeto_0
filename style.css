@@ -1,6 +1,7 @@
 .cabeçalho {
 
         background-color: #627254; 
+        color:#627254
         display: flex;
         padding: 24px  0;
         justify-content: space-around;
@@ -22,6 +23,8 @@
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
+        display: inline-block
+        
         font-size: 12px;
 }
 .cabeçalho-lista-item-2 {
