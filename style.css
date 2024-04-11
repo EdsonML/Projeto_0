@@ -2,7 +2,7 @@
 
         background-color: #627254; 
         display: flex;
-        padding: 16px;
+        padding: 0 16px;
         font-size: 22px;
         display: inline-block
 
@@ -20,20 +20,20 @@
 .cabeçalho-lista { 
         color:#DDDDDD;
         display: inline-block;
-        margin: 16px;
+        margin: 0 16px;
         font-display: inline-block;
 
 }
 .cabeçalho-lista-item-1 {
-        display: flex;
+        display: inline-block
         color: #DDDDDD;
-        margin: 16px;
+        margin: 0 16px;
         font-size: 24px;
         justify-content: space-around;        
 }
 .cabeçalho-lista-item-2 {
         color: #DDDDDD;
-        display: flex;
+        display: inline-block
         color: #DDDDDD;
         margin: 16px;
         font-size: 24px;
