@@ -1,4 +1,7 @@
-.cabeçalho {
+*{ margin: 0;
+padding: 0;
+}
+*.cabeçalho {
 
         background-color: #627254; 
         display: flex;
