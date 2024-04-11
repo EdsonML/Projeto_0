@@ -22,12 +22,11 @@
        
 }
 .cabeçalho-lista-item-1 {
-        color: #DDDDDD;
-        display: inline-block
+        display: inline-block;
+        margin: 0  16px;
+        font-size: 24px;
 
-        font-size: 12px;
        
-}
 .cabeçalho-lista-item-2 {
         color: #DDDDDD;
         font-size: 12px;       
@@ -43,14 +42,7 @@ section
 
 }
 
-.Apresentação título { 
-
-
-}
-.Apresentação-imagem {
+.apresentação-imagem {
         width: 25%; 
         width: 10%;
-
 }
-        
-       
