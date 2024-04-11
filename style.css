@@ -1,7 +1,6 @@
 .cabeçalho {
 
         background-color: #627254; 
-        color:#627254
         display: flex;
         padding: 24px  0;
         justify-content: space-around;
@@ -23,9 +22,8 @@
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
-        display: inline-block
-        
         font-size: 12px;
+        display: inline-block
 }
 .cabeçalho-lista-item-2 {
         color: #DDDDDD;
@@ -34,7 +32,7 @@
 
 section
 .apresentação{
-        background-color: #6de014; 
+        background-color: #76885B; 
         display: flex;
 
 .Apresentação título {
