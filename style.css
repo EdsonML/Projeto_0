@@ -1,8 +1,8 @@
 .cabeçalho {
 
         background-color: #627254; 
-        font-display: flex;
-        padding:24  0px;
+        font-display:flex;
+        justify-content: space-around;
                
 }
 
