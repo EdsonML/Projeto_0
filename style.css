@@ -21,7 +21,7 @@
         color:#DDDDDD;
         display: inline-block;
         margin: 16px;
-        font-size:24px
+        font-display: inline-block;
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
