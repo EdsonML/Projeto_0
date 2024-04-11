@@ -8,7 +8,7 @@
 
 .cabeçalho-título {
         color:#DDDDDD;  
-       font-size: px;
+       font-size: 24px;
       }         
 
 .cabeçalho-imagem {
@@ -17,11 +17,7 @@
 
 .cabeçalho-lista { 
         color:#DDDDDD;
-        display: inline-block;
-        margin: 0 16px;
-        font-display: inline-block;
-        justify-content: center;
-
+       
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
