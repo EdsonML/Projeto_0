@@ -34,9 +34,16 @@
 
 section
 .apresentação{
-
         background-color: #6de014; 
         display: flex;
+
+.Apresentação título {
+        background-color: #76885b; 
+
+}
+
+.Apresentação título { 
+
 
 }
 .Apresentação-imagem {
