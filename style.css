@@ -3,7 +3,7 @@
         background-color: #627254; 
         display: flex;
         padding: 0 16px;
-        font-size: 16px;
+        font-size: 12px;
         display: inline-block
 
 }
@@ -27,9 +27,10 @@
 }
 .cabeçalho-lista-item-1 {
         color: #DDDDDD;
-              
+        font-size: 12px;
 }
 .cabeçalho-lista-item-2 {
         color: #DDDDDD;
+        font-size: 12px;
        
 }
