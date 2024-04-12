@@ -15,7 +15,7 @@
 
 .cabeçalho-título {
         color:#DDDDDD;  
-       font-size: 16px;
+       font-size: 25px;
 }         
 
 .cabeçalho-imagem {
@@ -36,7 +36,7 @@
 .cabeçalho-lista-item-2 {
         display: inline-block;
         margin: 0 16px;
-        font-size: 32PX;
+        font-size: 24PX;
 
 }
 .apresentação{
