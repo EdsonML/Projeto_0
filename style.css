@@ -42,14 +42,14 @@
 .apresentação{
         background-color: #DDDDDD; 
         display: flex;
-        
+
 .Apresentacao titulo {
         background-color: #DDDDDD; 
         font-size: 24PX;
 
 }
 
-.apresentação-imagem {
-        width: 1%; 
-
+.Apresentação-imagem {
+        width: 25%;
+        
 }
