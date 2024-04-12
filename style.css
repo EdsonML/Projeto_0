@@ -33,19 +33,28 @@
         font-size: 16PX;
 
        
-.cabeçalho-lista-item-2 {
+.cabecalho-lista-item-2 {
         display: inline-block;
         margin: 0 25px;
         font-size: 16PX;
 
 }
+
+.cabeçalho-imagem {
+        width: 10%;
+    }
+    
+    
+    .Apresentação-imagem {
+        width: 25%;
+    }
 .apresentação{
         background-color: #ad1515; 
         display: flex;
 
 }
 
-.Apresentacao titulo {
+.Apresentacao {
         background-color: #DDDDDD; 
         font-size: 24PX;
 
