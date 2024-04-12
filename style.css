@@ -44,8 +44,7 @@
         width: 10%;
     }
     
-    .Apresentação-imagem {
-        width: 1ch;
+   
 
     }
 
@@ -55,6 +54,9 @@
 
 }
 
+.Apresentação-imagem {
+        width: 10%;
+}
 .Apresentacao {
         background-color: #DDDDDD; 
         display: flex;
