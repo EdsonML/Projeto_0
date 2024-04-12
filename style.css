@@ -44,10 +44,11 @@
         width: 10%;
     }
     
-    
     .Apresentação-imagem {
-        width: 25%;
+        width: 10%;
+
     }
+
 .apresentação{
         background-color: #DDDDDD; 
         display: flex;
@@ -57,10 +58,5 @@
 .Apresentacao {
         background-color: #DDDDDD; 
         display: flex;
-        
-}
-
-.Apresentação-imagem {
-        width: 1px;
         
 }
