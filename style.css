@@ -39,8 +39,7 @@
         font-size: 10PX;
 
 }
-
-
-.apresentaçãoimagem {
-        width: 1px;
+.apresentação {
+        background-color: #DDDDDD;
+        width: 10px;
 }
