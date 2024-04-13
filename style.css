@@ -57,6 +57,7 @@
 
 .apresentacao{
         display:flex;
+        align-items: baseline;
         width: 50%;
 
 .apresentacao-titulo{
