@@ -6,11 +6,11 @@
 .cabeçalho {
 
         background-color:#627254
-        color:white;
+        color:#DDDDDD;
         display: flex;
         justify-content: space-around;
         align-items: center;
-        padding: 12px  0; 
+        padding: 24px  0; 
 }
 
 .cabeçalho-título {
@@ -21,17 +21,16 @@
 .cabeçalho-imagem {
        width: 10%;
 
-    }
-
+ }
 .cabeçalho-lista { 
         display: inline-block;
         color:#DDDDDD;
        
 }
 .cabeçalho-lista-item-1 {
-        
+        display: inline-block;
         margin: 0 16px;
-        font-size: 10PX;
+        font-size: 16PX;
 
        
 .cabecalho-lista-item-2 {
