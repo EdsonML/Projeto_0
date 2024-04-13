@@ -61,7 +61,8 @@
         width: 50%;
 
 .apresentacao-titulo{
-        padding: 24%   0;
+        collor: #DDDDDD;
+        font-size:16px;
 }
 
 .apresentacao-paragrafo-1 {
