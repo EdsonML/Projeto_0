@@ -4,9 +4,7 @@
 
 }
 .cabeçalho {
-
-        background-color:#627254
-        color:#DDDDDD;
+        background-color:#627254;
         display: flex;
         justify-content: space-around;
         align-items: center;
