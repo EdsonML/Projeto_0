@@ -5,7 +5,8 @@
 }
 .cabeçalho {
 
-        background-color: #627254; color: #76885B;
+        background-color: #627254; 
+        color: #76885B;
         display: flex;
         padding: 24px  0;
         justify-content: space-around;
