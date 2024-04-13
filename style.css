@@ -45,11 +45,11 @@
 
 .apresentacao {
         background-image: linear-gradient(#76885B,#DDDDDD);
-        color:white;
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          padding: 24px 0;
+]       color: #DDDDDD; 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
               
 }
 
