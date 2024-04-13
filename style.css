@@ -24,12 +24,13 @@
     }
 
 .cabeçalho-lista { 
+        display: inline-block;
         color:#DDDDDD;
        
 }
 .cabeçalho-lista-item-1 {
-        display: inline-block;
-        margin: 5 16px;
+        
+        margin: 0 16px;
         font-size: 10PX;
 
        
