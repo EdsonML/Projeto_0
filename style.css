@@ -7,7 +7,6 @@
 
         background-color:#627254
         display: flex;
-        padding: 16px  0;
         justify-content: space-around;
         align-items: center;
         padding: 16px  0; 
@@ -15,7 +14,7 @@
 
 .cabeçalho-título {
         color:#DDDDDD;  
-       font-size: 22px;
+       font-size: 16px;
 }         
 
 .cabeçalho-imagem {
