@@ -46,7 +46,7 @@
 
 
 .apresentacao {
-        background-imagem: linear-gradient(#76885B, white);      
+        background-imagem: linear-gradient(#62725,#76885B,#d );      
         color: #627254; 
         display: flex;
         justify-content: center;
