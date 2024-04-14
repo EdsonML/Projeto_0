@@ -54,7 +54,7 @@
 }
 
 .escola-div-conteudo{
-         width: 35%;]
+         width: 35%;
 }
        
 .apresentacao{
@@ -63,22 +63,19 @@
         width: 14%;
 
 .apresentacao-titulo{
-        color:#76885B;
+        color:#EEEEEE;
         font-size:20px;
 }
 
 .apresentacao-paragrafo-1 {
-        color:#76885B;
-        font-size: 15px;
+        color:#EEEEEE
+      
 }
 .apresentacao-paragrafo-2 { 
-        color:#76885B;
-        font-size: 15px;
+        color:#EEEEEE
+     
 }
 
 .apresentacao-imagem{
         width: 50px;
 }
-
-}
-
