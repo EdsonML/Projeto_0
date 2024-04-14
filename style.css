@@ -43,10 +43,9 @@
         width: 25%;
 }
 
-
 .apresentacao {
-        background-image: linear-gradient(#76885B, #626262 );
-        color:#DDDDDD;
+        background-image: linear-gradient(#62725B, #EEEEEE );
+        color:#76885B;
         display:flex;
         justify-content: center;
         align-items:center;
@@ -64,7 +63,7 @@
         width: 14%;
 
 .apresentacao-titulo{
-        color:#DDDDDD;
+        color:#76885B;
         font-size:20px;
 }
 
