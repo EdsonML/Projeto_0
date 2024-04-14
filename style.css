@@ -36,7 +36,7 @@
 }
 
 .apresentacao-imagem{
-        width: 25%;
+        width: 15%;
 }
 
 .apresentacao-div-conteudo {
@@ -44,11 +44,12 @@
 
 }
       
-.section-apresentacao { 
-        background-image: linear-gradient(#4F6F52,#D2E3C8 );
-        color:#4F6F52;
-        display:flex;center;        justify-content: ;
-        align-items: center;
+        .section-apresentacao { 
+          background-image: linear-gradient(#4F6F52,#D2E3C8 );
+          color:#4F6F52;
+          display:flex;center;        
+          justify-content:center;
+          align-items: center;
 
 
 
