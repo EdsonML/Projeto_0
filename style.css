@@ -46,12 +46,12 @@
 
 
 .apresentacao {
-        background-color: linear-gradient(#76885B, white);      
+        background-imagem: linear-gradient(#76885B, white);      
         color: #627254; 
         display: flex;
-        justify-content: space-around;
-        align-items: flex-start;
-        padding: 16px 0;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
         
 }
 
