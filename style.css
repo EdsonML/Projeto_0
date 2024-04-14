@@ -38,36 +38,4 @@
 .apresentacao-imagem{
         width: 25%;
 }
-
-.apresentacao {
-        background-image: linear-gradient(#62725B, #EEEEEE );
-        color:#76885B;
-        display:flex;
-        justify-content: center;
-        align-items:center;
-        padding: 24px  0px;
-        
-}
-
-.escola-div-conteudo{
-         width:1440px;
-}
-       
-
-.apresentacao-titulo{
-        color:#EEEEEE;
-        font-size:20px;
-}
-
-.apresentacao-paragrafo-1 {
-        color:#EEEEEE
       
-}
-.apresentacao-paragrafo-2 { 
-        color:#EEEEEE
-     
-}
-
-.apresentacao-imagem{
-        width: 100px;
-}
