@@ -47,18 +47,18 @@
 
 .apresentacao {
         background-color: linear-gradient(#76885B, white);      
-        color: #DDDDDD; 
+        color: #627254; 
         display: flex;
         justify-content: space-around;
         align-items: flex-start;
-        padding: 3px 0;
+        padding: 16px 0;
         
 }
 
 .apresentacao{
         display:flex;
         align-items: center;
-        width: 15%;
+        width: 14%;
 
 .apresentacao-titulo{
         color: #DDDDDD;
