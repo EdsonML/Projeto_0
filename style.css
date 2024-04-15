@@ -1,13 +1,14 @@
 * { 
         margin: 0;
         padding: 0;
-
+    
+   
 }
 body{ 
          font-family: "Poppins", sans-serif;
          font-weight: 400;
          font-style: normal;
-
+    
 }
 .cabeçalho {
         background-color:#4F6F52;
@@ -15,19 +16,19 @@ body{
         display: flex;
         justify-content: space-around;
         align-items: center;
-        padding: 16px  0; 
-
+        padding: 24px  0; 
+    
 }
-
+    
 .cabeçalho-título {
         color:#DDDDDD;  
-       font-size: 16px;
+       font-size: 18px;
 }         
-
+    
 .cabeçalho-imagem {
        width: 10%;
-
- }
+    
+}
 .cabeçalho-lista { 
         display: inline-block;
         color:#DDDDDD;
@@ -36,13 +37,13 @@ body{
 .cabeçalho-lista-item {
         display: inline-block;
         margin: 0 16px;
-        font-size: 18PX;
+        font-size: 15px;
         
 }
-
+    
 .apresentacao-imagem{
-        width: 25%;
-}
+        width: 24%;
+    }
 .apresentacao { 
         background-image: linear-gradient(#4F6F52,#D2E3C8 );
         color:#2b3a2c;
@@ -50,18 +51,36 @@ body{
         justify-content:center;
         align-items: center;
         padding: 24px  0;
-
+    
 }
-
+    
 .apresentacao-div-conteudo {
           width: 35%;
           
 }
 .apresentacao-titulo{
         padding: 24px;
-
- }
-
- .professores-titulo{
-        
- }
+    
+}
+    
+    .professores-imagem{ 
+        width: 120px;
+    }
+    
+    .professores-titulo{
+        color:#2b3a2c;
+        font-size: 24px;
+        text-align: center;
+    
+    }
+    
+    .professores-icones{
+        width: 24px;
+        display: center;
+    }
+    
+    .professores-div{
+        text-align: center;
+        padding: 16px 0;
+    
+    }
