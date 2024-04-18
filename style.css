@@ -71,7 +71,7 @@ body{
 }
     
 .professores-imagem{ 
-        width: 40px;
+        width: 20px;
 }
     
 .professores-titulo{
@@ -82,7 +82,7 @@ body{
 }
     
 .professores-icones{
-        width: 4px;
+        width: 1px;
         display: center;
 }
     
