@@ -66,6 +66,22 @@ body{
     width: 120px;
 }
 
+.professores-imagem{ 
+    width: 120px;
+}
+
+.professores-imagem{ 
+    width: 120px;
+}
+
+.professores-imagem{ 
+    width: 120px;
+    
+}
+.professores-imagem{ 
+    width: 120px;
+}
+
 .professores-titulo{
     color:#2b3a2c;
     font-size: 24px;
@@ -86,4 +102,5 @@ body{
 
 .professores-todos {
      display: grid;
+     grid-auto-columns: 20% 20% 20% 20% 20%;
 }
