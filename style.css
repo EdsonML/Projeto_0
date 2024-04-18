@@ -41,7 +41,7 @@ body{
 }
 
 .apresentacao-imagem{
-    width: 24%;
+    width: 100%;
 }
 .apresentacao { 
     background-image: linear-gradient(#4F6F52,#D2E3C8 );
