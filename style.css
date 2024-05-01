@@ -108,6 +108,11 @@ body {
 
 }
 
+.professores-icones{
+    text-align: center;
+}
+
+
 .professores-todos {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
