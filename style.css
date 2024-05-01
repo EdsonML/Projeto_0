@@ -73,13 +73,13 @@ body {
 }
 
 .professores-titulo {
-    color: white;
+    color: #2b3a2c;
     font-size: 24px;
     text-align: center;
 }
 
 .professores-icones {
-    width: 56px;
+    width: 24px;
     display: center;
 }
 
