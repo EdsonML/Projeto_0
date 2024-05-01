@@ -80,14 +80,20 @@ body {
 
 .professores-icones {
     width: 24px;
+    padding: 24px  0;
     
 }
 
 .professores-div {
     text-align: center;
+    padding: 16px 0px;
 }
 
 .professores-todos {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.rodape-imagem{
+    weight: 60px;
+    padding: 12px  0;
 }
