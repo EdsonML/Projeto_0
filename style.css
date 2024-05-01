@@ -80,13 +80,13 @@ body {
 
 .professores-icones {
     width: 24px;
-    padding: 16px  16px;
+    padding: 16px  0px;
     
 }
 
 .professores-div {
     text-align: center;
-    padding: 16px 0px;
+    padding: 16px 16px;
 }
 
 .professores-todos {
