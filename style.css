@@ -64,7 +64,7 @@ body {
 }
 
 .apresentacao-titulo {
-    padding: 56px;
+    padding: 24px;
 
 }
 
@@ -74,12 +74,12 @@ body {
 
 .professores-titulo {
     color: #2b3a2c;
-    font-size: 56px;
+    font-size: 24px;
     text-align: center;
 }
 
 .professores-icones {
-    width: 24px;
+    width: 56px;
     display: center;
 }
 
